@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ClearJob/static/css/main.7d02eabf.chunk.css",
+    "main.js": "/ClearJob/static/js/main.679126d8.chunk.js",
+    "main.js.map": "/ClearJob/static/js/main.679126d8.chunk.js.map",
+    "runtime-main.js": "/ClearJob/static/js/runtime-main.1cf1e9b8.js",
+    "runtime-main.js.map": "/ClearJob/static/js/runtime-main.1cf1e9b8.js.map",
+    "static/js/2.db671910.chunk.js": "/ClearJob/static/js/2.db671910.chunk.js",
+    "static/js/2.db671910.chunk.js.map": "/ClearJob/static/js/2.db671910.chunk.js.map",
+    "static/js/3.f0431572.chunk.js": "/ClearJob/static/js/3.f0431572.chunk.js",
+    "static/js/3.f0431572.chunk.js.map": "/ClearJob/static/js/3.f0431572.chunk.js.map",
+    "index.html": "/ClearJob/index.html",
+    "static/css/main.7d02eabf.chunk.css.map": "/ClearJob/static/css/main.7d02eabf.chunk.css.map",
+    "static/js/2.db671910.chunk.js.LICENSE.txt": "/ClearJob/static/js/2.db671910.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cf1e9b8.js",
+    "static/js/2.db671910.chunk.js",
+    "static/css/main.7d02eabf.chunk.css",
+    "static/js/main.679126d8.chunk.js"
+  ]
+}
